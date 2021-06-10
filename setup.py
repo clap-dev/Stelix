@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 PACKAGE_NAME = 'stelix'
 VERSION = '1.0.1'
 
-with open('README.rst', 'r') as readme:
+with open('README.md', 'r') as readme:
     long_description = readme.read()
 
 setup(
