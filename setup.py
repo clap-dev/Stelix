@@ -15,7 +15,7 @@ setup(
     description='A Python wrapper for the Sellix API',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/iclapcheeks/Seltix',
+    url='https://github.com/iclapcheeks/Stelix',
     packages=find_packages(),
     install_requires=[
         'requests >=2.25.1, <3'
