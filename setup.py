@@ -1,10 +1,9 @@
 from setuptools import find_packages, setup
-import re
 
-PACKAGE_NAME = 'seltix'
-VERSION = '1.0.0'
+PACKAGE_NAME = 'stelix'
+VERSION = '1.0.1'
 
-with open('README.md', 'r') as readme:
+with open('README.rst', 'r') as readme:
     long_description = readme.read()
 
 setup(
