@@ -1,6 +1,6 @@
-import seltix
+import stelix
 
-sellix = seltix.Sellix(
+sellix = stelix.Sellix(
     secret_key='SECRET_KEY'
 )
 
@@ -8,11 +8,11 @@ coupon = sellix.request(
     method='create', # What you want to do, in this case we want to create a new coupon code
     endpoint='coupon', # The API Endpoint you are trying to access
 
-    code='Seltix is awesome',
+    code='stelix is awesome',
     discount_value=0.15,
     max_uses=5,
     products_bound=[
-        'seltix2021abc'
+        'stelix2021abc'
     ]
 
     # Passing the arguments required to create the coupon code, some are
