@@ -4,7 +4,7 @@ A Python wrapper for the Sellix API
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Stelix.
 
 ```bash
 pip install stelix
