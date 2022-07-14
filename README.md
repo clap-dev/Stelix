@@ -1,6 +1,15 @@
-# Stelix
-
-A Python wrapper for the Sellix API
+<div align="center">
+    <img src="https://i.imgur.com/ONYV8vH.png"/>
+    <p>
+      <a href="https://github.com/iclapcheeks/Stelix/pulse">
+        <img alt="Last commit" src="https://img.shields.io/github/last-commit/iclapcheeks/Stelix"/>
+      </a>
+      <a href="https://github.com/iclapcheeks/Stelix/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/iclapcheeks/Stelix?style=flat-square&logo=GNU&label=License" alt="License">
+      </a>
+    </p>
+    A Python wrapper for the Sellix API
+</div>
 
 ## Installation
 
