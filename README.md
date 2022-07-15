@@ -1,6 +1,5 @@
 <div align="center">
     <img src="https://i.imgur.com/ONYV8vH.png"/>
-    <p>A Python wrapper for the Sellix API</p>
     <p>
       <a href="https://github.com/iclapcheeks/Stelix/pulse">
         <img alt="Last commit" src="https://img.shields.io/github/last-commit/iclapcheeks/Stelix"/>
@@ -9,6 +8,7 @@
         <img src="https://img.shields.io/github/license/iclapcheeks/Stelix?style=flat-square&logo=GNU&label=License" alt="License">
       </a>
     </p>
+    <p>A Python wrapper for the Sellix API</p>
 </div>
 
 ## Installation
